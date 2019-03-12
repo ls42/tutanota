@@ -85,6 +85,8 @@ export const Keys = {
 	C: {code: 67, name: "C"},
 	E: {code: 69, name: "E"},
 	F: {code: 70, name: "F"},
+  	J: {code: 74, name: "J"},
+  	K: {code: 74, name: "K"},
 	H: {code: 72, name: "H"},
 	I: {code: 73, name: "I"},
 	L: {code: 76, name: "L"},
